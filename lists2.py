@@ -71,7 +71,7 @@ for expense in reversed_expenses:
 print("Expenses in reverse order:", formatted_reversed_expenses)
 
 
-#------------------------------------------third version-----------------------------------------------
+#------------------------------------------Second version-----------------------------------------------
 
 #change made here is asking user to input their list of expenses and specific expense,
 #rather than a constant give expense list to to program
